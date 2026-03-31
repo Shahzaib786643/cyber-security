@@ -1,0 +1,6 @@
+{"level":"info","message":"XSS prevented - safe comment: &lt;script&gt;alert(&#x27;XSS&#x27;);&lt;&#x2F;script&gt;"}
+{"level":"warn","message":"Failed login attempt for:  admin' OR '1'='1"}
+{"level":"info","message":"New user created securely: testuser123"}
+{"level":"info","message":"XSS prevented - safe comment: &lt;script&gt;alert(&#x27;XSS&#x27;);&lt;&#x2F;script&gt;"}
+{"level":"info","message":"XSS prevented - safe comment: &lt;script&gt;alert(&#x27;XSS&#x27;);&lt;&#x2F;script&gt;"}
+{"level":"warn","message":"Failed login attempt for:  admin' OR '1'='1"}
